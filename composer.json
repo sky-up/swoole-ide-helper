@@ -1,5 +1,5 @@
 {
-  "name": "swoft/swoole-ide-helper",
+  "name": "swoft-fork/swoole-ide-helper",
   "type": "library",
   "keywords": [
     "php",
@@ -10,7 +10,7 @@
   "description": "IDE helper for Swoft and Swoole",
   "license": "Apache-2.0",
   "require": {
-    "php": ">=7.1"
+    "php": ">=8.0"
   },
   "require-dev": {
     "ext-curl": "*",
