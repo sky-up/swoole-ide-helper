@@ -45,13 +45,13 @@ The [Swoft](https://github.com/swoft-cloud/swoft) use it as default.
 You can add it by `composer`:
 
 ```bash
-composer require --dev swoft/swoole-ide-helper
+composer require --dev swoft-fork/swoole-ide-helper
 
 # use latest code
-composer require --dev swoft/swoole-ide-helper@dev-master
+composer require --dev swoft-fork/swoole-ide-helper@dev-master
 
 # for specific version
-composer require --dev swoft/swoole-ide-helper:~4.4.2
+composer require --dev swoft-fork/swoole-ide-helper:~4.4.2
 ```
 
 ## Build
